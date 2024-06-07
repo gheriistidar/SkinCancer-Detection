@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Typography1" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">16sp</item>
+        <item name="android:lineSpacingExtra">6sp</item>
+        <item name="android:letterSpacing">0.05</item>
+    </style>
+
+    <style name="Typography2" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">18sp</item>
+        <item name="android:lineSpacingExtra">2sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+</resources>
